@@ -1,3 +1,3 @@
 # Arduino-Projects
 
-A few Arduino projects I've done, including code and pictures
+The most robust of my arduino projects, including code and pictures
